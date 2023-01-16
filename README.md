@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandreArthur
 - 👀 I’m interested in development
-- 🌱 I’m currently learning java, Angular, Kafka e Cloud 
-- 💞️ I’m currently working at a international project as junior developer
+- 🌱 I’m currently learning Spring, Angular, Kafka e Cloud 
+- 💞️ I’m currently working at a big international project as junior developer
 - 📫 How to reach me https://www.linkedin.com/in/arthur-alexandre-828aa5b8/
 
 <!---
